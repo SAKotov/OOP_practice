@@ -1,3 +1,4 @@
 <?php
 //include 'lesson/lesson_1.php';
-include 'lesson/lesson_2.php';
+//include 'lesson/lesson_2.php';
+include 'lesson/lesson_3.php';
