@@ -5,8 +5,8 @@
 //include 'lesson/lesson_4.php';
 //include 'lesson/lesson_5.php';
 //include 'lesson/lesson_6.php';
-include 'lesson/lesson_7.php';
-//include 'lesson/lesson_8.php';
+//include 'lesson/lesson_7.php';
+include 'lesson/lesson_8.php';
 //include 'lesson/lesson_9.php';
 //include 'lesson/lesson_10.php';
 //include 'lesson/lesson_11.php';
