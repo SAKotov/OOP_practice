@@ -231,16 +231,16 @@
 // salary (зарплата). Сделайте метод doubleSalary, который текущую зарплату будет увеличивать в 2 раза.
 //
 
-class Employee
-{
-    public $name;
-    public $salary;
-
-    public function doubleSalary($salary)
-    {
-        $this->salary = $salary * 2;
-    }
-}
+//class Employee
+//{
+//    public $name;
+//    public $salary;
+//
+//    public function doubleSalary($salary)
+//    {
+//        $this->salary = $salary * 2;
+//    }
+//}
 
 //$user = new Employee();
 //
