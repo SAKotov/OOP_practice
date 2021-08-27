@@ -12,10 +12,5 @@
 //include 'lesson/lesson_11.php';
 //include 'lesson/lesson_12.php';
 //include 'lesson/lesson_13.php';
-include 'lesson/lesson_14.php';
-//include 'lesson/lesson_15.php';
-//include 'lesson/lesson_16.php';
-//include 'lesson/lesson_17.php';
-//include 'lesson/lesson_18.php';
-//include 'lesson/lesson_19.php';
-//include 'lesson/lesson_20.php';
+//include 'lesson/lesson_14.php';
+//include 'lesson/lesson_15/lesson.php';
