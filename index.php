@@ -17,6 +17,7 @@
 //include 'lesson/lesson_16/lesson.php';
 //include 'lesson/lesson_17/lesson.php';
 //include 'lesson/lesson_18/lesson.php';
-include 'lesson/lesson_19/lesson.php';
+//include 'lesson/lesson_19/lesson.php';
+include 'lesson/lesson_20/lesson.php';
 
 
