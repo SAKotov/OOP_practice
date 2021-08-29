@@ -20,6 +20,7 @@
 //include 'lesson/lesson_19/lesson.php';
 //include 'lesson/lesson_20/lesson.php';
 //include 'lesson/lesson_21/lesson.php';
-include 'lesson/lesson_22/lesson.php';
+//include 'lesson/lesson_22/lesson.php';
+include 'lesson/lesson_23/lesson.php';
 
 
